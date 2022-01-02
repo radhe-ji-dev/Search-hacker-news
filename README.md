@@ -1,4 +1,4 @@
-# Hacker-NEWS App
+# Search Hacker-NEWS App
 ## It gives you list of stories in a minimalist possible manner
 
 
@@ -10,11 +10,11 @@
 
 - A very light weight Rect-App 
 - It use a Simpel Minimalist Design 
-- It is using a [Hackenews](https://hn.algolia.com/api/v1/search?)
+- It is using a [Hacker news](https://hn.algolia.com/api/v1/search?) API
 
 # Working
-- It fetche the data from api using the __in serach bar and renders.
-the data in single page react app
+- It fetches the data from api using the input in serach bar  as Query and render individiual Stories
+- each story card have two buttons 1 see more 2 Remove
 
 
 # Screen Shots
@@ -26,12 +26,12 @@ the data in single page react app
 
 
 ## Installation
-- clone the repo in ur local machine
-- follow comands bellow
- -- cd hacker-news
- -- npm i
- -- npm start
-- After following all commands u will be at page shown in screenshot 1
+- clone the repo in your local machine
+- follow commands as 
+-   cd hacker-news 
+-   npm i 
+-   npm start
+- After following all commands you will be at page shown in screenshot 1
 
 ## Learing
 This project helped me in learning of following react featurs
