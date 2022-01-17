@@ -14,7 +14,7 @@
 
 # Working
 - It fetches the data from api using the input in serach bar  as Query and render individiual Stories
-- each story card have two buttons 1 see more 2 Remove
+- each story card have two Buttons **See More** and **Remove**
 
 
 # Screen Shots
