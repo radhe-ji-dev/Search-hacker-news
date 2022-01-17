@@ -18,7 +18,7 @@
 
 
 # Screen Shots
-![Screenshot](Screenshot (489).png)
+![Screenshot](master/Screenshot(489).png)
 
 ## Techchnology used
 - Java script
