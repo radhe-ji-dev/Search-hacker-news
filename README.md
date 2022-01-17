@@ -18,7 +18,7 @@
 
 
 # Screen Shots
-`![Screenshot](Screenshot(489).png)
+`![Screenshot](Screenshot (489).png)
 
 ## Techchnology used
 - Java script
@@ -32,7 +32,7 @@
 -   cd hacker-news 
 -   npm i 
 -   npm start
-- After following all commands you will be at page shown in screenshot 1
+- After following all commands you will be at page shown in screenshot 
 
 ## Learing
 This project helped me in learning of following react featurs
